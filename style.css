@@ -53,13 +53,13 @@ nav {
     transition: all 0.3s ease;
 }
 
-@media screen and (max-width: 844px) {
+@media screen and (max-width: 480px) {
     .nav-links {
         width: 60%;
     }
 }
 
-@media screen and (max-width: 844px) {
+@media screen and (max-width: 480px) {
     body {
         overflow-x: hidden;
     }
